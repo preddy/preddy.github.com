@@ -1,0 +1,107 @@
+/*  
+Style Name: Blue Water
+*/
+
+body {
+    font-family:Tahoma, Kalimati, sans-serif;
+    font-size:10px;
+    color:#333;
+    background: #EEE url(./images/bg.gif);
+    text-align:center;
+    line-height:1.3;
+    letter-spacing:0.3px;
+    border-top:0px;
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+    color:#369; 
+    text-decoration:none;
+}
+
+a:visited {
+    color:#369;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#C06;
+    text-decoration:none;
+}
+
+.container {
+    background: url(./images/bgcontainer.gif) repeat-y;
+    margin: 0 auto;
+    padding-bottom: 6px;
+    width: 767px;
+}
+
+.splash {
+    background: url(./images/llaollao_bg.jpg) no-repeat;
+    margin: 0 auto;
+    width: 767px;
+    height: 314px;
+}
+
+.header1 {
+    font-size:2.7em;
+    color:#069;
+    text-decoration:none;
+    letter-spacing:1.2px;
+    margin:8px 0 4px 0;
+}
+
+.header1 a:link {
+    color:#069; 
+}
+
+.header1 a:visited {
+    color:#069;
+}
+
+.header1 a:hover {
+    color:#369;
+}
+
+.header2 {
+    font-size:1.2em;
+    color:#099;
+    text-decoration:none;
+    letter-spacing:1px;
+    margin:12px 0 4px 0;
+}
+
+.header3 {
+    font-size:1.0em;
+    color:#666;
+    text-decoration:none;
+    letter-spacing:1px;
+    margin:4px 0 4px 0;
+}
+
+.content1 {
+    font-size:0.8em;
+    color:#333;
+    text-decoration:none;
+    line-height:1.3;
+    margin:0;
+}
+
+.imageLabels {
+    font-size:0.67em;
+    color:#333;
+    text-decoration:none;
+    margin:0 0 10px 0;
+}
+
+.morelink {
+    font-size: 0.1em;
+}
+
+
+/* The End */
+
+
+
+
