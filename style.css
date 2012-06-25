@@ -99,8 +99,18 @@ a:hover {
     margin:0 0 10px 0;
 }
 
-.morelink {
-    font-size: 0.1em;
+.moreButton {
+    margin: 0;
+    padding: 8px 150px;
+    background: url(./images/gray_gradient.gif) repeat-x;
+    text-align: center;
+    font-size:0.9em;
+    text-decoration:none;
+    width: 340px;
+}
+
+.more_link {
+    font-size: 1em;
 }
 
 
