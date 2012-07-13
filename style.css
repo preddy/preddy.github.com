@@ -101,16 +101,23 @@ a:hover {
 
 .moreButton {
     margin: 0;
-    padding: 8px 150px;
+    padding: 0px;
     background: url(./images/gray_gradient.gif) repeat-x;
     text-align: center;
-    font-size:0.9em;
+    font-size:0.7em;
+    font-weight: bold;
     text-decoration:none;
-    width: 340px;
+    width: 632px;
+    height: 32px;
+    line-height: 32px;
 }
 
-.more_link {
-    font-size: 1em;
+.moreButton a:link {
+    color:#999;
+}
+
+.header1 a:visited {
+    color:#999;
 }
 
 
